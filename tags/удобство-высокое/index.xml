@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>удобство: высокое on Забота о себе: информационная безопасность</title>
+    <link>http://ufy-public.github.io/tags/%D1%83%D0%B4%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B5/</link>
+    <description>Recent content in удобство: высокое on Забота о себе: информационная безопасность</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sat, 26 Dec 2020 14:32:03 +0200</lastBuildDate><atom:link href="http://ufy-public.github.io/tags/%D1%83%D0%B4%D0%BE%D0%B1%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D1%8B%D1%81%D0%BE%D0%BA%D0%BE%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Безопасные настройки для браузера (Chrome, Firefox)</title>
+      <link>http://ufy-public.github.io/posts/basic/browsers/</link>
+      <pubDate>Sat, 26 Dec 2020 14:32:03 +0200</pubDate>
+      
+      <guid>http://ufy-public.github.io/posts/basic/browsers/</guid>
+      <description>&lt;p&gt;Есть несколько простых настроек, которые стоит поменять, чтобы уменьшить количество информации, которую собирают о вас в интернете. Мы поменяем поисковик по-умолчанию (прощай гугл) и сделаем так, что большинству сайтов будет намного сложнее за нами следить.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
